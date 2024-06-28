@@ -8,7 +8,7 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "en-US",
-      title: "KiCad HuaQiu",
+      title: "KiCad EDA HuaQiu",
       description: "HuaQiu KiCad",
     },
     "/zh/": {
