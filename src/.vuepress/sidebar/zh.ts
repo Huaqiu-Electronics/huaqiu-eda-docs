@@ -4,14 +4,14 @@ export const zhSidebar = sidebar({
   "/zh/": [
     "",
     {
-      text: "如何使用",
+      text: "WiKi",
       icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
+      prefix: "wiki/",
+      link: "wiki/",
       children: "structure",
     },
     {
-      text: "文章",
+      text: "Blog",
       icon: "book",
       prefix: "posts/",
       children: "structure",

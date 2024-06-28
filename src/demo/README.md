@@ -1,5 +1,5 @@
 ---
-title: Features demo
+title: WiKi
 index: false
 icon: laptop-code
 category:

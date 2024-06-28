@@ -38,15 +38,10 @@ export const enNavbar = navbar([
           "4",
         ],
       },
-      { text: "Cherry", icon: "pen-to-square", link: "cherry" },
-      { text: "Dragon Fruit", icon: "pen-to-square", link: "dragonfruit" },
+      { text: "ecad-viewer", icon: "pen-to-square", link: "cherry" },
+      { text: "amf-plugin", icon: "pen-to-square", link: "dragonfruit" },
       "tomato",
       "strawberry",
     ],
-  },
-  {
-    text: "V2 Docs",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/",
   },
 ]);
